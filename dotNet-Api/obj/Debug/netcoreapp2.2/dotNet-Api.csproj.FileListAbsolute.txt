@@ -1,0 +1,14 @@
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.csproj.CoreCompileInputs.cache
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.AssemblyInfoInputs.cache
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.AssemblyInfo.cs
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\bin\Debug\netcoreapp2.2\dotNet-Api.deps.json
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\bin\Debug\netcoreapp2.2\dotNet-Api.runtimeconfig.json
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\bin\Debug\netcoreapp2.2\dotNet-Api.runtimeconfig.dev.json
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\bin\Debug\netcoreapp2.2\dotNet-Api.dll
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\bin\Debug\netcoreapp2.2\dotNet-Api.pdb
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.csprojAssemblyReference.cache
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.RazorAssemblyInfo.cache
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.RazorAssemblyInfo.cs
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.RazorTargetAssemblyInfo.cache
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.dll
+C:\GIT\RONNY\dotNet-Api\dotNet-Api\obj\Debug\netcoreapp2.2\dotNet-Api.pdb
